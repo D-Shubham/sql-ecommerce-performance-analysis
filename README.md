@@ -32,7 +32,7 @@ The project breaks down 15 major business inquiries grouped into 4 strategic ret
 To explore the moving parts of this project, navigate through the folders above:
 * `/data`: Holds the raw, real-world CSV dataset utilized for the analysis.
 * `/sql_queries`: Contains the complete, production-ready PostgreSQL script files used to query the database.
-* `/visualizations`: Contains the verified query data output tables and charts exported from DBeaver (Queries 1–15).
+* `/visualizations`: Contains DBeaver query results, chart images, and the comprehensive Report.docx.
 * `/documentation`: Holds the complete executive deck synthesized for stakeholders via Gamma.
 
 ---
